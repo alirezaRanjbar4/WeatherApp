@@ -1,0 +1,7 @@
+C:\Users\rangbar.a\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\rangbar.a\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\rangbar.a\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\rangbar.a\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\rangbar.a\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\rangbar.a\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\rangbar.a\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb

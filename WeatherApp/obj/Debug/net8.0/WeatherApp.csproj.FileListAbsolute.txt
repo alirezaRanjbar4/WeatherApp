@@ -1,0 +1,4 @@
+C:\Users\rangbar.a\source\repos\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rangbar.a\source\repos\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\rangbar.a\source\repos\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.AssemblyInfo.cs
+C:\Users\rangbar.a\source\repos\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.csproj.CoreCompileInputs.cache
